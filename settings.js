@@ -3,7 +3,7 @@ const fs = require('fs')
 global.creator = 'wanzofc-tech'// yourname
 global.MONGO_DB_URI = "mongodb+srv://zanssxploit:pISqUYgJJDfnLW9b@cluster0.fgram.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
-global.your_email = "berlianawan148@gmail.com" //email
+global.your_email = "berlianawan498@gmail.com" //email
 global.email_password = "olre djtq lzyu oaxg" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
