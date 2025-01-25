@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'wanzofc-tech'// yourname
-global.MONGO_DB_URI = "mongodb+srv://wanzbrayy010308:db_password>@cluster0.rwdjr.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://wanzbrayy010308:db_password@cluster0.rwdjr.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "berlianawan148@gmail.com" //email
 global.email_password = "olre djtq lzyu oaxg" //application password email
